@@ -1,0 +1,13 @@
+
+
+To owner of http://www.zogadv.com/,
+
+This means that you may see more traffic in your logs from Googlebot Smartphone. You may also see that snippets in Google Search results are now generated from the mobile version of your content.
+
+Background: Mobile-first indexing means that Googlebot will now use the mobile version of your site for indexing and ranking, to better help our (primarily mobile) users find what they're looking for. Google’s crawling, indexing, and ranking systems have historically used the desktop version of your site's content, which can cause issues for mobile searchers when the desktop version differs from the mobile version. Our analysis indicates that the mobile and desktop versions of your site are comparable.
+For more information:
+•	Monitor your index coverage using the Index Status report.
+•	Monitor your impressions, clicks, and site appearance using the Performance report.
+•	If you have any additional questions, drop by our Webmaster forum for more help - mention message type [WNC-20058194] or our public events.
+Google LLC, 1600 Amphitheatre Parkway Mountain View, CA 94043 | You've received this service announcement email because your site is listed in Google Search Console | Unsubscribe from this type of message
+Add partners who should receive messages for this Search Console account
